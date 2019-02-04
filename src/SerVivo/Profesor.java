@@ -8,5 +8,13 @@ public class Profesor extends Humano{
 		this.materia = materia;
 	}
 
+	public String getMateria() {
+		return materia;
+	}
+
+	public void setMateria(String materia) {
+		this.materia = materia;
+	}
+
 
 }

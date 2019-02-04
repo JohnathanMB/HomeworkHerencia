@@ -7,6 +7,15 @@ public class Alumno extends Humano{
 		super(name, edad, genero, id);
 		this.grado = grado;
 	}
+
+	public String getGrado() {
+		return grado;
+	}
+
+	public void setGrado(String grado) {
+		this.grado = grado;
+	}
+	
 	
 	
 
