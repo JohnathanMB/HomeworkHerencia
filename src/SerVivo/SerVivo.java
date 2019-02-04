@@ -1,6 +1,6 @@
 package SerVivo;
 
-public class SerVivo {
+public  class SerVivo {
 	protected String name;
 	protected int edad;
 	protected String genero;
