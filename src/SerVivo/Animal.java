@@ -37,5 +37,13 @@ public class Animal extends SerVivo{
 		this.especie = especie;
 	}
 	
+
+
+	public void prestarGuardia() {
+		// TODO Auto-generated method stub
+		System.out.println("ANIMAL Lo hace");
+		
+	}
+	
 	
 }
